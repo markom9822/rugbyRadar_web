@@ -1,2 +1,3 @@
-# rugbyRadar_web
+# Rugby Radar
+
 Rugby Radar web version
