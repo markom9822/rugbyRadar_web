@@ -1,0 +1,23 @@
+.header-banner {
+  width: 100%;
+  background-color: black;
+  position: absolute;
+  top: 0;
+  height: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  color: white;
+  border-bottom: 2px solid rgb(148, 148, 148);
+}
+
+.header-banner img {
+  height: 70px;
+  padding: 8px;
+}
+
+.header-banner p {
+  font-size: 28px;
+  font-weight: bold;
+  padding: 8px;
+}
