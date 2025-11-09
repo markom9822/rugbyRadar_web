@@ -1,47 +1,82 @@
-export const LeinsterLogo = require('@/store/URCTeamLogos/LeinsterRugby_logo_2019.png')
-export const LeinsterAltLogo = require('@/store/URCTeamLogos/Leinster_Rugby_Logo_White.png')
+import LeinsterLogo from '../URCTeamLogos/LeinsterRugby_logo_2019.png';
+import LeinsterAltLogo from '../URCTeamLogos/Leinster_Rugby_Logo_White.png';
 
-export const MunsterLogo = require('@/store/URCTeamLogos/Munster_Rugby_logo.png')
-export const MunsterAltLogo = require('@/store/URCTeamLogos/Munster_Rugby_Logo_White.png')
+import MunsterLogo from '../URCTeamLogos/Munster_Rugby_logo.png';
+import MunsterAltLogo from '../URCTeamLogos/Munster_Rugby_Logo_White.png';
 
-export const UlsterLogo = require('@/store/URCTeamLogos/Ulster_Rugby_logo.png')
-export const UlsterAltLogo = require('@/store/URCTeamLogos/Ulster_Rugby_Logo_White.png')
+import UlsterLogo from '../URCTeamLogos/Ulster_Rugby_logo.png';
+import UlsterAltLogo from '../URCTeamLogos/Ulster_Rugby_Logo_White.png';
 
-export const ConnachtLogo = require('@/store/URCTeamLogos/ConnachtRugby_2017logo.png')
-export const ConnachtAltLogo = require('@/store/URCTeamLogos/Connacht_Rugby_Logo_White.png')
+import ConnachtLogo from '../URCTeamLogos/ConnachtRugby_2017logo.png';
+import ConnachtAltLogo from '../URCTeamLogos/Connacht_Rugby_Logo_White.png';
 
-export const CardiffLogo = require('@/store/URCTeamLogos/Cardiff-Rugby_logo.png')
-export const CardiffAltLogo = require('@/store/URCTeamLogos/Cardiff_Rugby_Logo_White.png')
+import CardiffLogo from '../URCTeamLogos/Cardiff-Rugby_logo.png';
+import CardiffAltLogo from '../URCTeamLogos/Cardiff_Rugby_Logo_White.png';
 
-export const EdinburghLogo = require('@/store/URCTeamLogos/Edinburgh_Rugby_Logo.png')
-export const EdinburghAltLogo = require('@/store/URCTeamLogos/Edinburgh_Rugby_Logo_White.png')
+import EdinburghLogo from '../URCTeamLogos/Edinburgh_Rugby_Logo.png';
+import EdinburghAltLogo from '../URCTeamLogos/Edinburgh_Rugby_Logo_White.png';
 
-export const GlasgowLogo = require('@/store/URCTeamLogos/Glasgow_Warriors_Logo.png')
-export const GlasgowAltLogo = require('@/store/URCTeamLogos/Glasgow_Warriors_Logo_White.png')
+import GlasgowLogo from '../URCTeamLogos/Glasgow_Warriors_Logo.png';
+import GlasgowAltLogo from '../URCTeamLogos/Glasgow_Warriors_Logo_White.png';
 
-export const ScarletsLogo = require('@/store/URCTeamLogos/Scarlets_logo.png')
-export const ScarletsAltLogo = require('@/store/URCTeamLogos/Scarlets_Ruby_Logo_White.png')
+import ScarletsLogo from '../URCTeamLogos/Scarlets_logo.png';
+import ScarletsAltLogo from '../URCTeamLogos/Scarlets_Ruby_Logo_White.png';
 
-export const DragonsLogo = require('@/store/URCTeamLogos/Dragons_RFC_logo.png')
-export const DragonsAltLogo = require('@/store/URCTeamLogos/Dragons_Rugby_Logo_White.png')
+import DragonsLogo from '../URCTeamLogos/Dragons_RFC_logo.png';
+import DragonsAltLogo from '../URCTeamLogos/Dragons_Rugby_Logo_White.png';
 
-export const OspreysLogo = require('@/store/URCTeamLogos/Ospreys_Rugby_logo.png')
-export const OspreysAltLogo = require('@/store/URCTeamLogos/Ospreys_Rugby_Logo_White.png')
+import OspreysLogo from '../URCTeamLogos/Ospreys_Rugby_logo.png';
+import OspreysAltLogo from '../URCTeamLogos/Ospreys_Rugby_Logo_White.png';
 
-export const BenettonLogo = require('@/store/URCTeamLogos/Benetton_rugby_logo.png')
-export const BenettonAltLogo = require('@/store/URCTeamLogos/Benetton_Rugby_Logo_White.png')
+import BenettonLogo from '../URCTeamLogos/Benetton_rugby_logo.png';
+import BenettonAltLogo from '../URCTeamLogos/Benetton_Rugby_Logo_White.png';
 
-export const ZebreLogo = require('@/store/URCTeamLogos/Zebre_parma_logo.png')
-export const ZebreAltLogo = require('@/store/URCTeamLogos/Zebre_Parma_Rugby_Logo_White.png')
+import ZebreLogo from '../URCTeamLogos/Zebre_parma_logo.png';
+import ZebreAltLogo from '../URCTeamLogos/Zebre_Parma_Rugby_Logo_White.png';
 
-export const LionsLogo = require('@/store/URCTeamLogos/Lions_rugby_logo.png')
-export const LionsAltLogo = require('@/store/URCTeamLogos/Lions_Rugby_Logo_White.png')
+import LionsLogo from '../URCTeamLogos/Lions_rugby_logo.png';
+import LionsAltLogo from '../URCTeamLogos/Lions_Rugby_Logo_White.png';
 
-export const StormersLogo = require('@/store/URCTeamLogos/Stormers_Rugby_Logo.png')
-export const StormersAltLogo = require('@/store/URCTeamLogos/Stormers_Rugby_Logo_White.png')
+import StormersLogo from '../URCTeamLogos/Stormers_Rugby_Logo.png';
+import StormersAltLogo from '../URCTeamLogos/Stormers_Rugby_Logo_White.png';
 
-export const SharksLogo = require('@/store/URCTeamLogos/Sharks_rugby_union_logo.png')
-export const SharksAltLogo = require('@/store/URCTeamLogos/Sharks_Rugby_Logo_White.png')
+import SharksLogo from '../URCTeamLogos/Sharks_rugby_union_logo.png';
+import SharksAltLogo from '../URCTeamLogos/Sharks_Rugby_Logo_White.png';
 
-export const BullsLogo = require('@/store/URCTeamLogos/Vodacom-Bulls-logo.png')
-export const BullsAltLogo = require('@/store/URCTeamLogos/Vodacom-Bulls-Logo_White.png')
+import BullsLogo from '../URCTeamLogos/Vodacom-Bulls-logo.png';
+import BullsAltLogo from '../URCTeamLogos/Vodacom-Bulls-Logo_White.png';
+
+export {
+  LeinsterLogo,
+  LeinsterAltLogo,
+  MunsterLogo,
+  MunsterAltLogo,
+  UlsterLogo,
+  UlsterAltLogo,
+  ConnachtLogo,
+  ConnachtAltLogo,
+  CardiffLogo,
+  CardiffAltLogo,
+  EdinburghLogo,
+  EdinburghAltLogo,
+  GlasgowLogo,
+  GlasgowAltLogo,
+  ScarletsLogo,
+  ScarletsAltLogo,
+  DragonsLogo,
+  DragonsAltLogo,
+  OspreysLogo,
+  OspreysAltLogo,
+  BenettonLogo,
+  BenettonAltLogo,
+  ZebreLogo,
+  ZebreAltLogo,
+  LionsLogo,
+  LionsAltLogo,
+  StormersLogo,
+  StormersAltLogo,
+  SharksLogo,
+  SharksAltLogo,
+  BullsLogo,
+  BullsAltLogo,
+};

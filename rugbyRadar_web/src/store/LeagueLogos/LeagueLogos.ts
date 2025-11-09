@@ -1,41 +1,72 @@
-export const ChampionsCupLogo = require('@/store/LeagueLogos/Champions_Cup_Logo.png')
-export const ChampionsCupAltLogo = require('@/store/LeagueLogos/Champions_Cup_Logo_White.png')
+import ChampionsCupLogo from '../LeagueLogos/Champions_Cup_Logo.png';
+import ChampionsCupAltLogo from '../LeagueLogos/Champions_Cup_Logo_White.png';
 
-export const ChallengeCupLogo = require('@/store/LeagueLogos/Challenge_Cup_Logo.png')
-export const ChallengeCupAltLogo = require('@/store/LeagueLogos/Challenge_Cup_Logo_White.png')
+import ChallengeCupLogo from '../LeagueLogos/Challenge_Cup_Logo.png';
+import ChallengeCupAltLogo from '../LeagueLogos/Challenge_Cup_Logo_White.png';
 
-export const PremiershipLogo = require('@/store/LeagueLogos/Prem_Logo.png')
-export const PremiershipAltLogo = require('@/store/LeagueLogos/Prem_Logo_White.png')
+import PremiershipLogo from '../LeagueLogos/Prem_Logo.png';
+import PremiershipAltLogo from '../LeagueLogos/Prem_Logo_White.png';
 
-export const RugbyChampLogo = require('@/store/LeagueLogos/Rugby_Championship_Logo.png')
-export const RugbyChampAltLogo = require('@/store/LeagueLogos/Rugby_Championship_Logo_White.png')
+import RugbyChampLogo from '../LeagueLogos/Rugby_Championship_Logo.png';
+import RugbyChampAltLogo from '../LeagueLogos/Rugby_Championship_Logo_White.png';
 
-export const WorldCupLogo = require('@/store/LeagueLogos/Rugby_World_Cup_Logo.png')
-export const WorldCupAltLogo = require('@/store/LeagueLogos/Rugby_World_Cup_Logo_White.png')
+import WorldCupLogo from '../LeagueLogos/Rugby_World_Cup_Logo.png';
+import WorldCupAltLogo from '../LeagueLogos/Rugby_World_Cup_Logo_White.png';
 
-export const SixNationsLogo = require('@/store/LeagueLogos/Six_Nations_Logo.png')
-export const SixNationsAltLogo = require('@/store/LeagueLogos/Six_Nations_Logo_White.png')
+import SixNationsLogo from '../LeagueLogos/Six_Nations_Logo.png';
+import SixNationsAltLogo from '../LeagueLogos/Six_Nations_Logo_White.png';
 
-export const SuperRugbyLogo = require('@/store/LeagueLogos/Super_Rugby_Logo.png')
-export const SuperRugbyAltLogo = require('@/store/LeagueLogos/Super_Rugby_Logo_White.png')
+import SuperRugbyLogo from '../LeagueLogos/Super_Rugby_Logo.png';
+import SuperRugbyAltLogo from '../LeagueLogos/Super_Rugby_Logo_White.png';
 
-export const Top14Logo = require('@/store/LeagueLogos/Top_14_Logo.png')
-export const Top14AltLogo = require('@/store/LeagueLogos/Top_14_Logo_White.png')
+import Top14Logo from '../LeagueLogos/Top_14_Logo.png';
+import Top14AltLogo from '../LeagueLogos/Top_14_Logo_White.png';
 
-export const URCLogo = require('@/store/LeagueLogos/URC_Logo.png')
-export const URCAltLogo = require('@/store/LeagueLogos/URC_Logo_White.png')
+import URCLogo from '../LeagueLogos/URC_Logo.png';
+import URCAltLogo from '../LeagueLogos/URC_Logo_White.png';
 
-export const RankingsLogo = require('@/store/LeagueLogos/Rankings_Icon.png')
-export const InternationalLogo = require('@/store/LeagueLogos/International_Icon.png')
+import RankingsLogo from '../LeagueLogos/Rankings_Icon.png';
+import InternationalLogo from '../LeagueLogos/International_Icon.png';
 
-export const AutumnNationsLogo = require('@/store/LeagueLogos/Autumn_Nations_Logo.png')
-export const AutumnNationsAltLogo = require('@/store/LeagueLogos/Autumn_Nations_Logo_White.png')
+import AutumnNationsLogo from '../LeagueLogos/Autumn_Nations_Logo.png';
+import AutumnNationsAltLogo from '../LeagueLogos/Autumn_Nations_Logo_White.png';
 
-export const U20SixNationsLogo = require('@/store/LeagueLogos/u20_SixNations_Logo.png')
-export const U20SixNationsAltLogo = require('@/store/LeagueLogos/u20_SixNations_Logo_White.png')
+import U20SixNationsLogo from '../LeagueLogos/u20_SixNations_Logo.png';
+import U20SixNationsAltLogo from '../LeagueLogos/u20_SixNations_Logo_White.png';
 
-export const U20WorldChampsLogo = require('@/store/LeagueLogos/u20_world_champs_logo.png')
-export const U20WorldChampsAltLogo = require('@/store/LeagueLogos/u20_world_champs_logo_white.png')
+import U20WorldChampsLogo from '../LeagueLogos/u20_world_champs_logo.png';
+import U20WorldChampsAltLogo from '../LeagueLogos/u20_world_champs_logo_white.png';
 
-export const PacificNationsCupLogo = require('@/store/LeagueLogos/pacific_nations_logo.png')
-export const PacificNationsCupAltLogo = require('@/store/LeagueLogos/pacific_nations_logo_white.png')
+import PacificNationsCupLogo from '../LeagueLogos/pacific_nations_logo.png';
+import PacificNationsCupAltLogo from '../LeagueLogos/pacific_nations_logo_white.png';
+
+export {
+  ChampionsCupLogo,
+  ChampionsCupAltLogo,
+  ChallengeCupLogo,
+  ChallengeCupAltLogo,
+  PremiershipLogo,
+  PremiershipAltLogo,
+  RugbyChampLogo,
+  RugbyChampAltLogo,
+  WorldCupLogo,
+  WorldCupAltLogo,
+  SixNationsLogo,
+  SixNationsAltLogo,
+  SuperRugbyLogo,
+  SuperRugbyAltLogo,
+  Top14Logo,
+  Top14AltLogo,
+  URCLogo,
+  URCAltLogo,
+  RankingsLogo,
+  InternationalLogo,
+  AutumnNationsLogo,
+  AutumnNationsAltLogo,
+  U20SixNationsLogo,
+  U20SixNationsAltLogo,
+  U20WorldChampsLogo,
+  U20WorldChampsAltLogo,
+  PacificNationsCupLogo,
+  PacificNationsCupAltLogo,
+};

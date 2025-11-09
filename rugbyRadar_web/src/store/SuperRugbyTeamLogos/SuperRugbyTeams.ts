@@ -1,35 +1,62 @@
-export const BluesLogo = require('@/store/SuperRugbyTeamLogos/Blues_Super_Rugby_Logo.png')
-export const BluesAltLogo = require('@/store/SuperRugbyTeamLogos/Blues_Rugby_Logo_White.png')
+import BluesLogo from '../SuperRugbyTeamLogos/Blues_Super_Rugby_Logo.png';
+import BluesAltLogo from '../SuperRugbyTeamLogos/Blues_Rugby_Logo_White.png';
 
-export const BrumbiesLogo = require('@/store/SuperRugbyTeamLogos/Brumbies_Rugby_logo.png')
-export const BrumbiesAltLogo = require('@/store/SuperRugbyTeamLogos/Brumbies_Rugby_Logo_White.png')
+import BrumbiesLogo from '../SuperRugbyTeamLogos/Brumbies_Rugby_logo.png';
+import BrumbiesAltLogo from '../SuperRugbyTeamLogos/Brumbies_Rugby_Logo_White.png';
 
-export const ChiefsLogo = require('@/store/SuperRugbyTeamLogos/Chiefs_rugby_logo.png')
-export const ChiefsAltLogo = require('@/store/SuperRugbyTeamLogos/Chiefs_Rugby_Logo_White.png')
+import ChiefsLogo from '../SuperRugbyTeamLogos/Chiefs_rugby_logo.png';
+import ChiefsAltLogo from '../SuperRugbyTeamLogos/Chiefs_Rugby_Logo_White.png';
 
-export const CrusadersLogo = require('@/store/SuperRugbyTeamLogos/Crusaders_Rugby_Logo.png')
-export const CrusadersAltLogo = require('@/store/SuperRugbyTeamLogos/Crusaders_Rugby_Logo_White.png')
+import CrusadersLogo from '../SuperRugbyTeamLogos/Crusaders_Rugby_Logo.png';
+import CrusadersAltLogo from '../SuperRugbyTeamLogos/Crusaders_Rugby_Logo_White.png';
 
-export const DruaLogo = require('@/store/SuperRugbyTeamLogos/Fijian_Drua_Logo.png')
-export const DruaAltLogo = require('@/store/SuperRugbyTeamLogos/Drua_Rugby_Logo_White.png')
+import DruaLogo from '../SuperRugbyTeamLogos/Fijian_Drua_Logo.png';
+import DruaAltLogo from '../SuperRugbyTeamLogos/Drua_Rugby_Logo_White.png';
 
-export const HighlandersLogo = require('@/store/SuperRugbyTeamLogos/Highlanders_NZ_rugby_logo.png')
-export const HighlandersAltLogo = require('@/store/SuperRugbyTeamLogos/Highlanders_Rugby_Logo_White.png')
+import HighlandersLogo from '../SuperRugbyTeamLogos/Highlanders_NZ_rugby_logo.png';
+import HighlandersAltLogo from '../SuperRugbyTeamLogos/Highlanders_Rugby_Logo_White.png';
 
-export const HurricanesLogo = require('@/store/SuperRugbyTeamLogos/Hurricanes_Rugby_Logo.png')
-export const HurricanesAltLogo = require('@/store/SuperRugbyTeamLogos/Hurricanes_Rugby_Logo_White.png')
+import HurricanesLogo from '../SuperRugbyTeamLogos/Hurricanes_Rugby_Logo.png';
+import HurricanesAltLogo from '../SuperRugbyTeamLogos/Hurricanes_Rugby_Logo_White.png';
 
-export const RebelsLogo = require('@/store/SuperRugbyTeamLogos/Melbourne_Rebels_logo.png')
-export const RebelsAltLogo = require('@/store/SuperRugbyTeamLogos/Melbourne_Rebels_Rugby_Logo_White.png')
+import RebelsLogo from '../SuperRugbyTeamLogos/Melbourne_Rebels_logo.png';
+import RebelsAltLogo from '../SuperRugbyTeamLogos/Melbourne_Rebels_Rugby_Logo_White.png';
 
-export const MoanaLogo = require('@/store/SuperRugbyTeamLogos/Moana_Pasifika_logo.png')
-export const MoanaAltLogo = require('@/store/SuperRugbyTeamLogos/Moana_Pasifika_Logo_White.png')
+import MoanaLogo from '../SuperRugbyTeamLogos/Moana_Pasifika_logo.png';
+import MoanaAltLogo from '../SuperRugbyTeamLogos/Moana_Pasifika_Logo_White.png';
 
-export const RedsLogo = require('@/store/SuperRugbyTeamLogos/QLD_reds_logo.png')
-export const RedsAltLogo = require('@/store/SuperRugbyTeamLogos/Queensland_Reds_Rugby_Logo_White.png')
+import RedsLogo from '../SuperRugbyTeamLogos/QLD_reds_logo.png';
+import RedsAltLogo from '../SuperRugbyTeamLogos/Queensland_Reds_Rugby_Logo_White.png';
 
-export const WaratahsLogo = require('@/store/SuperRugbyTeamLogos/Waratahs_logo.png')
-export const WaratahsAltLogo = require('@/store/SuperRugbyTeamLogos/Waratahs_Rugby_Logo_White.png')
+import WaratahsLogo from '../SuperRugbyTeamLogos/Waratahs_logo.png';
+import WaratahsAltLogo from '../SuperRugbyTeamLogos/Waratahs_Rugby_Logo_White.png';
 
-export const ForceLogo = require('@/store/SuperRugbyTeamLogos/Western_force_rugby_logo.png')
-export const ForceAltLogo = require('@/store/SuperRugbyTeamLogos/Western_Force_Rugby_Logo_White.png')
+import ForceLogo from '../SuperRugbyTeamLogos/Western_force_rugby_logo.png';
+import ForceAltLogo from '../SuperRugbyTeamLogos/Western_Force_Rugby_Logo_White.png';
+
+export {
+  BluesLogo,
+  BluesAltLogo,
+  BrumbiesLogo,
+  BrumbiesAltLogo,
+  ChiefsLogo,
+  ChiefsAltLogo,
+  CrusadersLogo,
+  CrusadersAltLogo,
+  DruaLogo,
+  DruaAltLogo,
+  HighlandersLogo,
+  HighlandersAltLogo,
+  HurricanesLogo,
+  HurricanesAltLogo,
+  RebelsLogo,
+  RebelsAltLogo,
+  MoanaLogo,
+  MoanaAltLogo,
+  RedsLogo,
+  RedsAltLogo,
+  WaratahsLogo,
+  WaratahsAltLogo,
+  ForceLogo,
+  ForceAltLogo,
+};
