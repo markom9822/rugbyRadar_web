@@ -1,0 +1,45 @@
+.panelContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 6px;
+  background-color:rgb(148, 148, 148);
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.teamInfo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: start;
+  gap: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.teamInfo img {
+    width: 40px;
+}
+
+.teamInfo p {
+    font-size: x-large;
+}
+
+.scoreDisplay {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.scoreDisplay p {
+    font-size: x-large;
+}
+
+.scoreDisplay span {
+    font-size: large;
+}

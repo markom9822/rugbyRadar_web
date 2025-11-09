@@ -5,9 +5,11 @@ import * as superRugbyJSONData from '../PlayerImages/SuperRugbyPlayerImages.json
 import * as top14JSONData from '../PlayerImages/Top14PlayerImages.json'
 import * as urcJSONData from '../PlayerImages/URCPlayerImages.json'
 import { getChampsCupShortNameFromFullName } from '../ChampionsCupRugbyTeamsDatabase'
+import DefaultPlayerImg from '../PlayerImages/default_player.png';
 
-export const DefaultPlayerImg = require('../PlayerImages/default_player.png')
-
+export function PlayerImage() {
+  return DefaultPlayerImg;
+}
 
 export const getPlayerImageSrc = (leagueName: string, teamName: string, playerName: string) => {
 

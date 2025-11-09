@@ -1,5 +1,12 @@
-export const CheetahsLogo = require('@/store/MiscTeamLogos/toyota_cheetahs_logo.png')
-export const CheetahsAltLogo = require('@/store/MiscTeamLogos/toyota_cheetahs_logo_white.png')
+import CheetahsLogo from '../MiscTeamLogos/toyota_cheetahs_logo.png';
+import CheetahsAltLogo from '../MiscTeamLogos/toyota_cheetahs_logo_white.png';
 
-export const BlackLionLogo = require('@/store/MiscTeamLogos/black_lion_logo.png')
-export const BlackLionAltLogo = require('@/store/MiscTeamLogos/black_lion_logo_white.png')
+import BlackLionLogo from '../MiscTeamLogos/black_lion_logo.png';
+import BlackLionAltLogo from '../MiscTeamLogos/black_lion_logo_white.png';
+
+export {
+  CheetahsLogo,
+  CheetahsAltLogo,
+  BlackLionLogo,
+  BlackLionAltLogo,
+};
