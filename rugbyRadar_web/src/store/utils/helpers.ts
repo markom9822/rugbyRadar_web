@@ -436,14 +436,14 @@ export const generateSeasonList = () =>{
     const currentYear = new Date().getFullYear().valueOf();
     const startYear = "2021"
 
-    let seasonArray: SeasonDateInfo[] = []
+    const seasonArray: SeasonDateInfo[] = []
 
     for (let index = 0; index < Number(currentYear) - Number(startYear) + 1; index++) {
 
         const year = Number(currentYear) - (index-1);
         const lastYear  = year - 1;
 
-        let newItem = {
+        const newItem = {
             label: lastYear.toString() + "/" + year.toString().substring(year.toString().length - 2),
             value: year.toString()
         }
